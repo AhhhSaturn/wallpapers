@@ -1,1 +1,1 @@
-caelestia wallpaper --random ~/Pictures/wallpapers --no-filter
+caelestia wallpaper --random ~/Pictures/wallpapers --no-filter --no-smart
